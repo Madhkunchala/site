@@ -1,0 +1,15 @@
+#navbarSupportedContent {
+    text-align: center;
+}
+
+.card-body {
+    margin: 0 auto;
+    /* Center the card horizontally */
+    margin-top: 50px;
+    /* Add some top margin to center vertically */
+    width: 18rem;
+    text-align: bottom;
+    /* Center the text inside the card */
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
